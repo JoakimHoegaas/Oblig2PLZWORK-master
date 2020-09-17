@@ -1,0 +1,26 @@
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.exe
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.deps.json
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.runtimeconfig.json
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.runtimeconfig.dev.json
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.dll
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.pdb
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.csprojAssemblyReference.cache
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.AssemblyInfoInputs.cache
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.AssemblyInfo.cs
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.csproj.CoreCompileInputs.cache
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.dll
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.pdb
+C:\Users\GET Academy\cs\Oblig2Modul3\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.genruntimeconfig.cache
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.exe
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.deps.json
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.runtimeconfig.json
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.runtimeconfig.dev.json
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.dll
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\bin\Debug\netcoreapp3.1\Oblig2Modul3.pdb
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.csprojAssemblyReference.cache
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.AssemblyInfoInputs.cache
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.AssemblyInfo.cs
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.csproj.CoreCompileInputs.cache
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.dll
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.pdb
+C:\Users\had00bin\Desktop\Oblig2PLZWORK-master\Oblig2Modul3\obj\Debug\netcoreapp3.1\Oblig2Modul3.genruntimeconfig.cache
